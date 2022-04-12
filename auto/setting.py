@@ -1,4 +1,4 @@
-ONESS_DOMAIN = 'oness.dzaaaaaa.com'
+ONESS_DOMAIN = 'one-ss-eight.vercel.app'
 
 
 class OneSSApi:
