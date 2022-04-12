@@ -9,14 +9,14 @@ const customSetting = {
         github: 'https://github.com/Tualin14/OneSS',
         mail: {
             enable: true,
-            link: 't@dzaaaaaa.com'
+            link: '1v1@1v1.design'
         },
         twitter: {
             enable: true,
-            link: 'https://twitter.com/OliviaiDT'
+            link: 'https://twitter.com/FredHelsinki'
         },
         bilibili: {
-            enable: true,
+            enable: false,
             link: 'https://space.bilibili.com/403504801'
         },
         youtube: {
